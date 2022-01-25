@@ -16,14 +16,6 @@
 [ <img src='./assets/Facebook-icon-design-illustration-on-transparent-background-PNG.png' alt='linkedin' height='40'> </p>](https://www.facebook.com/bacem.bendaly.3)
 
 
-<h2 align="center">
-    <b>Would you like to see some stats? 💯</b>
-</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bacembendaly99&show_icons=true&theme=graywhite" alt="Anurag's github stats">
-</p>
-
 
 <h2 align="center">
     <b>Well, it was nice meeting you! Have a great day! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </b>
