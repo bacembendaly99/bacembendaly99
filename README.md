@@ -3,8 +3,8 @@
 </h1>
 
 * My name is Bacem Ben Daly 😃
-* I mainly code in Java and Python, but I am always learning. 👨🏽‍💻
-* I am a passionate developper who enjoys __Web Development__ and __Backend Development__, with great enthusiasm for __DevOps__! 🚀
+* I mainly code in Java, Typescript andPython, but I am always learning. 👨🏽‍💻
+* I am a passionate developper who enjoys __Web Development__ with great enthusiasm for __DevOps__! 🚀
 * I am also someone who enjoys meeting new people, networking and working in teams! 🤗
 
 
