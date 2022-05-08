@@ -5,7 +5,7 @@
 * My name is Bacem Ben Daly 😃
 * I mainly code in Java, Typescript and Python, but I am always learning. 👨🏽‍💻
 * I am a passionate developper who enjoys __Web Development__ with great enthusiasm for __DevOps__! 🚀
-* I am also someone who enjoys meeting new people, networking and working in teams! 🤗
+
 
 
 <h2 align="center">
